@@ -1,6 +1,6 @@
 # SIB x Dicoding Capstone Project
 
-<!-- ![team members]() -->
+![Website Preview](https://github.com/Nutrify-Dicoding/.github/blob/main/Front%20End%20Preview.jpg?raw=true)
 
 Capstone project for SIB x Dicoding 2023 Batch 5
 
@@ -12,8 +12,7 @@ Capstone project for SIB x Dicoding 2023 Batch 5
 
 #### Members
 
-
-
+![Team Members](https://github.com/Nutrify-Dicoding/.github/blob/main/Team%20Member.jpg?raw=true)
 
 | Name | Student ID | Role | LinkedIn | Github |
 | :------------------ | :------------- | :------------------ | :------------------ | :------------------ |
