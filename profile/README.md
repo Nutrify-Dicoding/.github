@@ -7,7 +7,7 @@ Capstone project for SIB x Dicoding 2023 Batch 5
 #### Team ID: C523-PS006
 #### Project Name: Nutrify
 
-![Logo]()
+![Logo](https://raw.githubusercontent.com/Nutrify-Dicoding/.github/main/nutrify-logo-100px.png)
 
 
 #### Members
